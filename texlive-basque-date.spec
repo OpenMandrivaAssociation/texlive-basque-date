@@ -52,3 +52,11 @@ in Basque.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.05-1
++ Revision: 813401
+- Import texlive-basque-date
+- Import texlive-basque-date
+
