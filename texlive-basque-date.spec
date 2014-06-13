@@ -6,7 +6,7 @@
 # catalog-version 1.05
 Name:		texlive-basque-date
 Version:	1.05
-Release:	5
+Release:	6
 Summary:	Print the date in Basque
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/basque-date
