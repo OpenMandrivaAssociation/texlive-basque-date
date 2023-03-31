@@ -1,6 +1,6 @@
 Name:		texlive-basque-date
 Version:	26477
-Release:	1
+Release:	2
 Summary:	Print the date in Basque
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/basque-date
